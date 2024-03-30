@@ -1,3 +1,7 @@
+This project is developed by using React.js, to run use *cd accuknox and npm start*.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
